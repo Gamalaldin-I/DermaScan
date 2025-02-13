@@ -1,0 +1,16 @@
+paths:
+  data: "/media/ahmed/Files/skin-cancer/data/raw/csv/HAM10000_metadata.csv"
+  images: "/media/ahmed/Files/skin-cancer/data/raw/images/HAM10000_images_part_*"
+
+images:
+  train: "/media/ahmed/Files/skin-cancer/data/processed/images/train.npy"
+  test: "/media/ahmed/Files/skin-cancer/data/processed/images/test.npy"
+  validation: "/media/ahmed/Files/skin-cancer/data/processed/images/validation.npy"
+
+labels:
+  train: "/media/ahmed/Files/skin-cancer/data/processed/labels/train.npy"
+  test: "/media/ahmed/Files/skin-cancer/data/processed/labels/test.npy"
+  validation: "/media/ahmed/Files/skin-cancer/data/processed/labels/validation.npy"
+
+models:
+  tflite_model: "/media/ahmed/Files/Brain-Project/models/checkpoints/model.tflite"
