@@ -11,10 +11,8 @@ DermaScan is a cutting-edge mobile application designed to help users identify p
 - 🔒 **Privacy First** – No personal data is stored or transmitted.
 
 ## 🛠️ Technologies Used
-- **Android Development**: Kotlin, XML, Jetpack Components
+- **Android Development**: Kotlin, XML, CameraX APi
 - **AI & Machine Learning**: TensorFlow Lite (TFLite)
-- **Backend**: .NET API (for future cloud integrations)
-- **Database**: Room (for local storage)
 
 ## 👨‍💻 Development Team
 - **Android Development**: [Jamal Ibrahim](https://github.com/Gamalaldin-I)
