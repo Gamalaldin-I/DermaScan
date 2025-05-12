@@ -1,3 +1,9 @@
+*.idea
+*.venv
+*.vscode
+*.egg-info
+*__pycache__
+*.jpg
 *.iml
 .gradle
 /local.properties
