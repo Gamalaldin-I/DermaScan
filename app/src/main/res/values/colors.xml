@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FAF9F8</color>
+    <color name="primary">#3A80E9</color>
+    <color name="secondary">@color/textSecondary</color>
+    <color name="textPrimary">#216CF1</color>
+    <color name="textSecondary">#05265F</color>
+    <color name="background">#FBEAD1</color>
+    <color name="good">#4ABD7D</color>
+    <color name="mid">#A9570E</color>
+    <color name="danger">#A53523</color>
+
+
+
+</resources>
