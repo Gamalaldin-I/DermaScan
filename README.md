@@ -54,7 +54,7 @@ DermaScan is a cutting-edge mobile application designed to help users identify p
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourgithub/dermaScan.git
+   git clone https://github.com/A-A7med-i/SkinDetectionApp.git
    ```
 
 2. Open the project in Android Studio.
